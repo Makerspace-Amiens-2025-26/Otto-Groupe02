@@ -10,7 +10,7 @@ permalink: /
 Bienvenue dans la documentation du projet Otto. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
 [Notre projet sur Onshape](https://modelembedder.net/embed?did=612c47d5092cb63e2e20956a&wvm=v&wvmid=1f7902fe31741094c22c6c4e&eid=bc57a69ff337fc3d13f8cbc7&elementType=ASSEMBLY){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Notre repo GitHub](https://github.com/Makerspace-Amiens-2025-26/Otto-Groupe02){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
 
@@ -20,8 +20,25 @@ Bienvenue dans la documentation du projet Otto. Ce site a pour but de fournir to
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+**Quel est l'objectif de ce projet ?**
+Notre projet est une version personnalisée du robot Otto-MKS, conçue pour 
+participer aux Ottolympiades. Le robot doit se déplacer, réagir à son 
+environnement et performer face aux autres groupes.
 
+**À qui est-il destiné ?**
+Ce projet est réalisé dans le cadre de notre première année en tant qu'ingénieur à Unilasalle. 
+Il est destiné à être présenté lors des Ottolympiades, une compétition 
+entre les différents groupes de l'école.
+
+**Quels problèmes cherche-t-il à résoudre ?**
+Le projet nous a permis d'approfondire la conception 3D, l'électronique et 
+la programmation embarquée, en partant d'un robot existant et en le 
+personnalisant selon nos idées.
+
+**Quelles modifications avons-nous apportées ?**
+Nous avons retravaillé le design original en ajoutant des bras articulés 
+reliés par une pelle, et en modifiant la tête en ajoutant un casque et un body 
+inspiré d'un requin, pour donner à notre robot une identité visuelle unique.
 
 ## Poster
 
