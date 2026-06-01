@@ -7,7 +7,7 @@ permalink: /
 
 # Bienvenue sur notre documentation
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet Otto. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
 [Notre projet sur Onshape](https://modelembedder.net/embed?did=612c47d5092cb63e2e20956a&wvm=v&wvmid=1f7902fe31741094c22c6c4e&eid=bc57a69ff337fc3d13f8cbc7&elementType=ASSEMBLY){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
