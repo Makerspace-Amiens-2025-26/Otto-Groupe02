@@ -9,7 +9,7 @@ permalink: /
 
 Bienvenue dans la documentation du projet Otto. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-[Notre projet sur Onshape](https://modelembedder.net/embed?did=612c47d5092cb63e2e20956a&wvm=v&wvmid=1f7902fe31741094c22c6c4e&eid=bc57a69ff337fc3d13f8cbc7&elementType=ASSEMBLY){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre projet sur Onshape](https://modelembedder.net/embed?did=1866db2513d84bb61894f1f9&wvm=v&wvmid=56ab4c6cb9287fd7781d6d7c&eid=2c52b24e7e8171eb45ff5585&elementType=ASSEMBLY){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens-2025-26/Otto-Groupe02){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
