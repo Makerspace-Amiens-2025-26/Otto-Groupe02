@@ -5,21 +5,70 @@ title: Objectifs du projet
 ---
 
 # Introduction
+Dans le cadre de notre première année à Unilasalle Amiens, nous avons 
+travaillé sur le projet Robot-Otto MKS. Ce dernier est un robot bipède 
+que nous avons personnalisé pour l'adapter aux Ottolympiades d'Unilasalle 
+Amiens.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Notre groupe est composé de 3 personnes : Duhamel Maxence, Froumentin 
+Timothé et Fonte-Nova Lamotte Victor. Nous avons ensemble réalisé les 
+modifications 3D nécessaires pour la compétition et décidé comment nous 
+voulions personnaliser notre robot. Nous avons donc ajouté des bras 
+articulés reliés par une pelle, ainsi qu'un casque et un body inspirés 
+d'un requin. Notre robot peut se déplacer et lever les bras pour combattre. 
+Il est contrôlable via l'application RemoteXY et possède un mode pour 
+avancer de façon autonome.
 
 ## Contexte du Projet
+Le robot Otto-MKS est un projet pédagogique de première année à 
+Unilasalle Amiens. Il s'appuie sur le projet open-source Otto, 
+un robot bipède conçu pour être imprimé en 3D, assemblé et programmé 
+par des étudiants.
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Dans ce cadre, chaque groupe doit concevoir sa propre version du robot 
+en y apportant des modifications personnalisées, puis le faire concourir 
+lors des Ottolympiades — une compétition organisée entre tous les groupes 
+de la promotion.
 
 ## Objectifs du Projet
-
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+- Apprendre à coder pour contrôler et manipuler les différents 
+  composants du robot (servomoteurs, capteurs, communication Bluetooth)
+  
+- Approfondir les bases déjà acquises en conception 3D pour 
+  concevoir et imprimer nos pièces personnalisées sur Onshape
+  
+- Travailler en équipe et se répartir les tâches efficacement
+  
+- Comprendre le fonctionnement d'un robot bipède : mécanique, 
+  électronique et programmation
+  
+- Utiliser GitHub pour documenter notre projet
+  
+- Participer aux Ottolympiades et faire concourir notre robot 
+  face aux autres groupes de la promotion
 
 # Existant
+Le robot Otto-MKS est basé sur le projet open-source Otto DIY. 
+Dans sa version de base, il est composé de :
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+- Un microcontrôleur ESP32-XIAO
+- Quatre servomoteurs pour assurer le déplacement (2 hanches, 2 pieds)
+- Un capteur ultrason pour détecter les obstacles
+- Une structure imprimée en 3D
+
+Dans sa version originale, le robot peut marcher, éviter les obstacles 
+et être programmé via Arduino.
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+## Contraintes techniques
+- Partir du modèle de base Otto-MKS sans changer les composants électroniques
+- Les modifications 3D doivent être compatibles avec l'assemblage existant
+- Le robot doit être fonctionnel et capable de se déplacer
+
+## Livrables attendus
+- Un robot fonctionnel
+- Une vidéo de 1min30 au format vertical présentant le projet
+- Le fichier Onshape du robot modifié
+- Un site web de documentation (ce site)
+- La participation aux Ottolympiades
