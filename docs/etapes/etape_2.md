@@ -1,25 +1,41 @@
 ---
 layout: default
-title: Assemblage
+title: Assemblage mécanique
 parent: Etapes de fabrication
 nav_order: 2
 ---
+# Assemblage mécanique
 
-# Assemblage
+## Matériel nécessaire
+- Toutes les pièces imprimées en 3D
+- 6 servomoteurs DF9GMS (4 pour les jambes, 2 pour les bras)
+- Visserie (vis et écrous M2)
+- Tournevis
 
-Après la préparation des matériaux, l'étape suivante est l'assemblage.
+## Étapes d'assemblage
 
-## Étapes d'Assemblage
+1. **Montage des jambes** : Fixez les servomoteurs dans les jambes 
+   et reliez-les au body.
+2. **Montage des pieds** : Attachez les pieds aux servomoteurs 
+   du bas avec les cornes 4 bras.
+3. **Montage du body** : Assemblez le corps requin autour 
+   des composants électroniques.
+4. **Montage de la tête** : Fixez le casque requin sur le body.
+5. **Montage des bras** : Fixez les 2 servomoteurs supplémentaires 
+   sur les côtés du body, puis attachez les bras articulés 
+   et la pelle dessus.
 
-1. **Organisation** : Organisez tous les composants préparés.
-2. **Assemblage Initial** : Commencez par assembler les pièces principales.
-3. **Fixation** : Fixez solidement les pièces ensemble en utilisant les outils appropriés.
+## Vérifications à effectuer
+- Les servomoteurs doivent pouvoir bouger librement sans frotter
+- Les pièces doivent être bien alignées et stables
+- La pelle doit être correctement fixée entre les deux bras
 
-## Vérifications à Effectuer
+## Problèmes courants
 
-- Assurez-vous que toutes les pièces sont correctement alignées.
-- Vérifiez la stabilité et la solidité de l'assemblage.
+{: .warning }
+> Si une pièce ne s'emboîte pas correctement, ne forcez pas — 
+> vérifiez l'orientation et l'alignement avant de recommencer.
 
-## Problèmes Communs et Solutions
+## Résultat
 
-- Si des pièces ne s'emboîtent pas correctement, vérifiez leur alignement et leur dimension
+![Robot assemblé](../images/robot-assemble.jpg)
