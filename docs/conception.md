@@ -11,7 +11,7 @@ du modèle de base Otto-MKS. Les pièces modifiées sont :
 - Le casque et le body inspirés d'un requin
 - Les bras articulés reliés par une pelle
 
-![Modèle 3D sur Onshape](images/onshape-complet.png)
+![Modèle 3D sur Onshape](images/Skarki1.png)
 
 ## Impression 3D
 Une fois la conception terminée, nous avons imprimé nos pièces 
