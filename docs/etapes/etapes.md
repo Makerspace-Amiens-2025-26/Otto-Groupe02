@@ -4,24 +4,22 @@ title: Etapes de fabrication
 nav_order: 6
 has_children: true
 ---
-
 # Étapes de Fabrication
-
-Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
+Bienvenue dans la section dédiée aux étapes de fabrication de notre 
+robot Otto-MKS. Vous trouverez ici les guides détaillés pour chaque 
+étape de la construction et de la personnalisation de notre robot.
 
 ## Aperçu des Étapes
-
 Le processus de fabrication est divisé en plusieurs étapes clés :
-
-1. [Préparation des Matériaux](etape_1)
-2. [Assemblage](etape_2)
-3. [Finition]()
-4. [Contrôle Qualité]()
+1. [Impression 3D](etape_1)
+2. [Assemblage mécanique](etape_2)
+3. [Câblage électronique](etape_3)
+4. [Programmation](etape_4)
 
 ## Commencer
+Avant de commencer, assurez-vous de disposer de tous les composants 
+nécessaires : servomoteurs, ESP32-XIAO, capteur ultrason, visserie, 
+et les pièces imprimées en 3D.
 
-Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de tous les outils et matériaux nécessaires. Suivez les étapes dans l'ordre pour garantir la qualité et l'efficacité du processus de fabrication.
-
----
-
-Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe.
+Suivez les étapes dans l'ordre pour garantir un assemblage correct 
+et un robot fonctionnel.
