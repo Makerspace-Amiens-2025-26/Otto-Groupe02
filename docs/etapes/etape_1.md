@@ -1,31 +1,38 @@
 ---
 layout: default
-title: Préparation des Matériaux
+title: Impression 3D
 parent: Etapes de fabrication
 nav_order: 1
 ---
+# Impression 3D
 
-# Préparation des Matériaux
+## Matériel nécessaire
+- Imprimante 3D
+- Filament PLA
+- Fichiers STL du robot Otto-MKS
 
-Cette section décrit la première étape du processus de fabrication : la préparation des matériaux.
+## Pièces à imprimer
+Toutes les pièces du robot ont été imprimées en PLA :
 
-## Liste des Matériaux
+| Pièce | Quantité |
+|-------|----------|
+| Head (tête/casque requin) | 1 |
+| Body (corps requin) | 1 |
+| Leg (jambe) | 2 |
+| Foot (pied) | 2 |
+| Bras | 2 |
+| Pelle | 1 |
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+## Paramètres d'impression
 
-## Procédure de Préparation
+{: .note }
+> Complétez ici vos paramètres d'impression si vous les avez notés
+> (température buse, température plateau, vitesse, remplissage...)
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+## Résultat
 
-## Conseils de Sécurité
+![Pièces imprimées](../images/pieces-imprimees.jpg)
 
-- Portez toujours l'équipement de protection individuelle.
-- Suivez les instructions de sécurité des outils utilisés.
-
----
-
-Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
+{: .warning }
+> Vérifiez que toutes les pièces s'assemblent correctement 
+> avant de passer à l'étape suivante.
