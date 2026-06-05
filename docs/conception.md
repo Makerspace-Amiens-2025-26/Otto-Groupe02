@@ -18,12 +18,6 @@ du modèle de base Otto-MKS. Les pièces modifiées sont :
 Une fois la conception terminée, nous avons imprimé nos pièces 
 sur les imprimantes 3D du MakerSpace.
 
-![Pièces imprimées](images/pieces-imprimees.jpg)
-
-{: .note }
-> Mettre ici les paramètres d'impression si vous les avez notés 
-> (température, remplissage, supports...)
-
 ## Programmation
 Nous avons programmé le robot sur Arduino. Le code gère :
 - Le déplacement du robot (marche, rotation)
