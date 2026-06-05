@@ -25,4 +25,3 @@ Nous avons programmé le robot sur Arduino. Le code gère :
 - Le mode autonome pour avancer sans télécommande
 - La gestion des bras pour les attaques
 
-![Interface RemoteXY](images/remotexy.png)
