@@ -9,7 +9,8 @@ Ce dossier contient l'ensemble des fichiers sources de notre robot Otto-MKS.
 - **Fichier Onshape** : le modèle 3D de notre robot personnalisé 
   (casque requin, body, bras, pelle)
 
-## Liens utiles
+## Lien(s) utile(s)
 
-- [Modèle Onshape](LIEN_DE_TON_ONSHAPE)
-- [Documentation du projet](LIEN_DE_TON_SITE_GITHUB_PAGES)
+- [Modèle Onshape](https://cad.onshape.com/documents/612c47d5092cb63e2e20956a/w/2da54d9e692497291a6d6850/e/bc57a69ff337fc3d13f8cbc7)
+
+
