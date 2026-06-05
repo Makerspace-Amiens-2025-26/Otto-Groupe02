@@ -17,7 +17,7 @@ nav_order: 3
 
 ### Servomoteurs des jambes
 Les 4 servomoteurs des jambes sont branchés sur les pins 
-de l'ESP32-XIAO :
+de l'ESP32-XIAO (les pins : D10,D9,D8,D7) :
 - Hanche droite
 - Hanche gauche  
 - Pied droit
@@ -25,20 +25,10 @@ de l'ESP32-XIAO :
 
 ### Servomoteurs des bras
 Les 2 servomoteurs supplémentaires pour les bras sont 
-branchés sur les pins restants de l'ESP32-XIAO.
+branchés sur les pins restants de l'ESP32-XIAO. C'est à dire sur les pins D3 et D6.
 
 ### Capteur ultrason
 Le capteur ultrason est branché sur l'ESP32-XIAO pour 
 détecter les obstacles en mode autonome.
 
-## Schéma de câblage
 
-![Schéma de câblage](../images/schema-cablage.jpg)
-
-{: .note }
-> Vérifiez bien la polarité avant de brancher quoi que ce soit 
-> pour ne pas endommager les composants.
-
-{: .warning }
-> Ne branchez la batterie qu'une fois tous les câbles connectés 
-> et vérifiés.
