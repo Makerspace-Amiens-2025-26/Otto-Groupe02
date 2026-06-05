@@ -42,9 +42,8 @@ inspiré d'un requin, pour donner à notre robot une identité visuelle unique.
 
 ## Poster
 
-Ici vous publierez le poster de votre projet.
+<img width="768" height="1024" alt="2CE50EA0-058A-4E25-B906-44114827FCC3_1_105_c" src="https://github.com/user-attachments/assets/750b5386-927a-4abf-ba6e-2052d65f6ad7" />
 
-![Poster projet](images/poster.jpg)
 
 ## Vidéo
 
