@@ -14,6 +14,9 @@ Nous avons choisi un design inspiré du requin pour plusieurs raisons :
 - Le casque et le body requin s'intégraient bien sur la structure 
   de base du robot sans nécessiter de modifications majeures
 
+  <img width="768" height="1024" alt="52793268-3089-4266-9614-B386BBFBBAE8_1_105_c" src="https://github.com/user-attachments/assets/0cfef0d2-967f-4f33-81ed-03e75a90812f" />
+
+
 ## Bras articulés avec pelle
 Nous avons opté pour des bras reliés par une pelle dans un objectif 
 purement offensif pour les Ottolympiades :
