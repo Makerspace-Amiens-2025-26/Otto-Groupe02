@@ -21,7 +21,7 @@ avancer de façon autonome.
 
 ## Contexte du Projet
 Le robot Otto-MKS est un projet pédagogique de première année à 
-Unilasalle Amiens. Il s'appuie sur le projet open-source Otto, 
+Unilasalle Amiens. Il s'appuie sur le projet Otto, 
 un robot bipède conçu pour être imprimé en 3D, assemblé et programmé 
 par des étudiants.
 
