@@ -38,4 +38,13 @@ nav_order: 2
 
 ## Résultat
 
-![Robot assemblé](../images/robot-assemble.jpg)
+<img width="768" height="1024" alt="52793268-3089-4266-9614-B386BBFBBAE8_1_105_c" src="https://github.com/user-attachments/assets/53e0d6c3-f7cc-4964-9b5e-7c133cabcdc4" />
+
+<img width="768" height="1024" alt="849C5774-3C36-404D-A2A9-78BD9E2339B7_1_105_c" src="https://github.com/user-attachments/assets/66f11168-84da-4f50-a6c5-978410cd419b" />
+
+<img width="768" height="1024" alt="C9F02505-48EE-44E1-9363-0326C7C9F975_1_105_c" src="https://github.com/user-attachments/assets/043ba74a-9e8d-4c4d-a9d4-0433b92031af" />
+
+<img width="768" height="1024" alt="C5C36377-24C0-4014-9FB6-AF22854401CE_1_105_c" src="https://github.com/user-attachments/assets/1de30fac-d1ce-4c1d-8418-9ec0d3b72c3f" />
+
+
+
