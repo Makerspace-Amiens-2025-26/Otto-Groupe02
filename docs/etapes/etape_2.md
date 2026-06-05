@@ -8,8 +8,8 @@ nav_order: 2
 
 ## Matériel nécessaire
 - Toutes les pièces imprimées en 3D
-- 6 servomoteurs DF9GMS (4 pour les jambes, 2 pour les bras)
-- Visserie (vis et écrous M2)
+- 6 servomoteurs (4 pour les jambes, 2 pour les bras)
+- Visserie (vis et écrous M3)
 - Tournevis
 
 ## Étapes d'assemblage
