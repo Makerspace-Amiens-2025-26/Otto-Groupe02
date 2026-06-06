@@ -40,17 +40,9 @@ inspiré d'un requin, pour donner à notre robot une identité visuelle unique.
 
 <img width="768" height="1024" alt="2CE50EA0-058A-4E25-B906-44114827FCC3_1_105_c" src="https://github.com/user-attachments/assets/750b5386-927a-4abf-ba6e-2052d65f6ad7" />
 
-
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
-- 1min30 au format vertical
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
+Retrouvez ci-dessous la présentation vidéo de notre robot **Sharky** au format vertical (1min30).
 
 <iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/tB5s6Zxrk-c" frameborder="0" allowfullscreen></iframe>
 
