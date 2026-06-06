@@ -52,6 +52,6 @@ Ici vous publierez la vidéo de votre projet.
 - Une conclusion
 - Si en stockage local : <50mo
 
-<iframe width="100%" height="400" src="https://youtube.com/shorts/tB5s6Zxrk-c?feature=share" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/tB5s6Zxrk-c" frameborder="0" allowfullscreen></iframe>
 
 ---
